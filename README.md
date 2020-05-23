@@ -1,4 +1,4 @@
-[](dashboard.png)
+![](dashboard.png)
 
 # Simple Web Dashboard application using Flask framework.
 [](flask.png)
