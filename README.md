@@ -1,7 +1,7 @@
 ![](dashboard.png)
 
 # Simple Web Dashboard application using Flask framework.
-![](flask.png)
+![](Flask.png)
 
 ## Introduction
 This project is developed as capstone project from Algoritma Academy Data Analytics Specialization. The Deliverables is expected to build simple web dashboard application, using framework Flask. This capstone is focus on Flask User Interface layout. More complete result can be found [here](dashboard.pdf)
